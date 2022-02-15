@@ -1,0 +1,4 @@
+
+=== SUBDOMAINS:
+admin.youtube.com FOUND
+corp.youtube.com FOUND
